@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 諸法本經
+#+DATE: 2015-08-30 19:29:56.194187
+#+PROPERTY: JUAN 0
