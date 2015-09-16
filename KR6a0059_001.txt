@@ -1,22 +1,21 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:29:55.982021
+#+DATE: 2015-08-30 19:29:56.609397
 #+TITLE: 諸法本經
 #+PROPERTY: CBETA_ID T01n0059
 #+PROPERTY: ID KR6a0059
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 1, No. 059
 #+PROPERTY: VOL 01
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@SONG
 #+PROPERTY: LASTPB <pb:KR6a0059_T_000-0855c>¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6a0059_T_001-0855c> ¶¶¶
 #+PROPERTY: JUAN 1
 ¶
 ¶
-No.59[No.26(113)]¶
-
- 佛說諸法本經(出《中阿含》別翻)¶
+No. 59 [No. 26(113)]¶
+佛說諸法本經(出《中阿含》別翻)¶
 ¶
-吳月支國居士支謙譯¶
+吳月支優婆塞支謙譯¶
 
 聞如是：
 
@@ -38,9 +37,9 @@ No.59[No.26(113)]¶
 
 「諸比丘！當學是，常當有去家之想念，非常想¶
 念，非常苦想念，苦非身想念，穢食想念，不淨¶
-想念，死亡想念，一切世間無樂想念，知世¶
-間邪正想念，別世間有無想念。世間所習¶
-所取歡樂變失及其歸趣，當如事以正見知¶
+想念，無忘想念，一切世間無樂想念，知世¶
+間邪正想念，則世間有無想念。世間所習¶
+所取歡樂變失及其歸趣，當如事以正見之¶
 之。諸比丘！念是為斷愛棄欲，入正慧得苦際。」¶
-佛說經已，皆歡喜奉行。¶
+佛說經已，皆歡喜受行。¶
 佛說諸法本經
